@@ -4,6 +4,7 @@
 </head>
 <body>
 <?php
+echo "venkatesh";
 if(isset($_REQUEST["mb_cmid"]))
         {
 		print_r($_REQUEST);	
